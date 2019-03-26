@@ -4,7 +4,6 @@
 Exin Tech
 '''
 
-import urllib
 import requests 
 import time
 import json
