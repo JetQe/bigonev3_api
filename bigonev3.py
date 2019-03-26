@@ -5,14 +5,9 @@ Exin Tech
 '''
 
 import urllib
-import hmac
-import base64
-import hashlib
 import requests 
-import traceback
 import time
 import json
-import hashlib
 import jwt
 
 # constant
